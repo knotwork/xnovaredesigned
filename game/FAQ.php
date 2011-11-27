@@ -9,10 +9,9 @@
 
 define('INSIDE'  , true);
 define('INSTALL' , false);
+define('ROOT_PATH' , './');
 
-$ugamela_root_path = './';
-include($ugamela_root_path . 'extension.inc');
-include($ugamela_root_path . 'common.' . $phpEx);
+include(ROOT_PATH . 'common.php');
 
 	includeLang('FAQ');
 
