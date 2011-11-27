@@ -1,6 +1,6 @@
-================================================================================
-Xnova Redesigned - trying to make a wqorking game starting from the old beta 14.
-================================================================================
+===============================================================================
+Xnova Redesigned - trying to make a working game starting from the old beta 14.
+===============================================================================
 
 This started from the old beta 14, but that seemed to be missing a number of
 files, so a lot of other releases were raded for a file here and there in the
@@ -9,4 +9,4 @@ search for at least approximations of the seemingly missing files.
 Also the limiting of number of galaxies to one digit was changed to three
 digits to allow more galaxies to be configured.
 
-================================================================================
+===============================================================================
