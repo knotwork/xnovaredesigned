@@ -13,7 +13,7 @@
 			<a href="http://www.bitcoin.org/" target="_blank">BiTCoins</a>|
 			<a href="{forum_url}" target="_blank">{Board}</a>|
 			<a href="http://webchat.freenode.net/?channels=galacticmilieu" target="_blank">WebChat</a>|
-			<a href="http://sourceforge.net/p/galacticmilieu/discussion/" target="_blank">SourceForge</a>
+			<a href="http://sourceforge.net/p/galacticmilieu/home/Home/" target="_blank">SourceForge</a>
 		</div>
 		<br class="clearfloat" />
 	</div><!-- -->
