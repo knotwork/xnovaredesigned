@@ -28,7 +28,7 @@ $parse['this_page'] .= "<tr><td class=\"c\">Board</td></tr>";
 $parse['this_page'] .= "<tr>";
 $parse['this_page'] .= "<th>";
 */
-$parse['this_page'] .= "<iframe src=\"http://wolverines.hqforums.com/\" name=\"boardframe\" id=\"boardframe\" frameborder=\"0\" border=\"0\" width=\"100%\" height=\"5000\" style=\"overflow:visible\" allowautotransparency=\"true\"></iframe>\n";
+$parse['this_page'] .= "<iframe src=\"http://sourceforge.net/p/galacticmilieu/discussion/\" name=\"boardframe\" id=\"boardframe\" frameborder=\"0\" border=\"0\" width=\"100%\" height=\"5000\" style=\"overflow:visible\" allowautotransparency=\"true\"></iframe>\n";
 /*
 $parse['this_page'] .= "</th>";
 $parse['this_page'] .= "</tr>";
